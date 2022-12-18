@@ -9,12 +9,12 @@
                     
  [ ] ITSS01  |  [ ] ITSS02 | [ ]  ITSS03 |  [ ] ITSS04 | [ ]  ITSS05
 ------------- | ------------- | ------------- | ------------- | ------------- 
-PDF Gốc | PDF Gốc |  PDF Gốc |  PDF Gốc |  PDF Gốc 
-PDF Dịch |  PDF Dịch |  PDF Dịch |  PDF Dịch |  PDF Dịch
+[PDF Gốc](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS01.pdf) | [PDF Gốc](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS02.pdf) |  [PDF Gốc](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS03.pdf) |  [PDF Gốc](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS04.pdf) |  [PDF Gốc](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS05.pdf)
+[PDF Dịch](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS01-D%E1%BB%8Bch.pdf) |  [PDF Dịch](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS02-D%E1%BB%8Bch.pdf) |  [PDF Dịch](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS03-D%E1%BB%8Bch.pdf) |  [PDF Dịch](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS04-D%E1%BB%8Bch.pdf) |  [PDF Dịch](https://github.com/ANTU-ALT-F4/WorkSkills/blob/0b69717a69994161ea5cc7da0ac45b7a8fa6c6da/modul2/IT%20Software%20Solutions-ITSS05-D%E1%BB%8Bch.pdf)
 
 ### Module 3-Web Design
                     
  [ ] WD01  | [ ]  WD02 |  [ ] WD03 |  [ ] WD04 |  [ ] WD05
 ------------- | ------------- | ------------- | ------------- | ------------- 
-PDF Gốc | PDF Gốc |  PDF Gốc |  PDF Gốc |  PDF Gốc 
-PDF Dịch |  PDF Dịch |  PDF Dịch |  PDF Dịch |  PDF Dịch
+[PDF Gốc]() | [PDF Gốc]() |  [PDF Gốc]() |  [PDF Gốc]() |  [PDF Gốc]()
+[PDF Dịch]() |  [PDF Dịch]() |  [PDF Dịch]() |  [PDF Dịch]() |  [PDF Dịch]()
