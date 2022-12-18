@@ -2,7 +2,7 @@
                     
  [ ] SAT01  | [ ]  SAT02 |  [ ] SAT03 | [ ]  SAT04 |  [ ] SAT05
 ------------- | ------------- | ------------- | ------------- | ------------- 
-[PDF Gốc]("PDF Gốc") |PDF Gốc |  PDF Gốc |  PDF Gốc |  PDF Gốc 
+[PDF Gốc](/blob/main/modul1/System%20Analysis%20and%20Design%20%26%20Database%20Design%20-%20SAT01.pdf"PDF Gốc") |PDF Gốc |  PDF Gốc |  PDF Gốc |  PDF Gốc 
 PDF Dịch |  PDF Dịch |  PDF Dịch |  PDF Dịch |  PDF Dịch
 
 ### Module 2-IT Software Solutions
